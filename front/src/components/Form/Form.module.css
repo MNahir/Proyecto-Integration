@@ -1,0 +1,10 @@
+.fondo{
+    background-color: rgb(223, 202, 223);
+    padding: 20rem;
+}
+
+.letra{
+    color: black;
+    background-color: blanchedalmond;
+    border-radius: 3rem;
+}
